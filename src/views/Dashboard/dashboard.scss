@@ -1,0 +1,16 @@
+.Dashboard {
+    &__box {
+        &__item {
+            @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+                background: rgba(0, 1, 40, 0.5);
+                backdrop-filter: blur(100px);
+            }
+
+            /* slightly transparent fallback for Firefox (not supporting backdrop-filter) */
+            @supports not ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+                background: rgba(0, 1, 40, 0.95);
+                backdrop-filter: none;
+            }
+        }
+    }
+}

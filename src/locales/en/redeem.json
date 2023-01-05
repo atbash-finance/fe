@@ -1,0 +1,23 @@
+{
+    "RedeemTitle": "Redeem",
+    "ConnectYourWalletToStake": "Connect your wallet to redeem Atbash tokens!",
+    "Redeem": "Redeem",
+    "Unstake": "Unstake",
+    "StakingSB": "Redeem MIM",
+    "UnstakingStakedBASH": "Unstaking sBASH",
+    "YourStakedBalance": "Your Staked Balance",
+    "YourWrappedStakedBalance": "Your Wrapped Staked Balance",
+    "WrappedTokenEquivalent": "Your Wrapped sBASH is equivalent to",
+    "NextRewardAmount": "Next Reward Amount",
+    "NextRewardYield": "Next Reward Yield",
+    "ROIFiveDayRate": "$t(ROI) ($t(FiveDayRate))",
+    "ValueOfYourBASH": "Value of Your BASH",
+    "ValueOfYourStakedBASH": "Value of Your Staked BASH",
+    "ValueOfYourWrappedStakedSB": "Value of Your Wrapped Staked BASH",
+    "Redeeming": "redeeming",
+    "Unstaking": "unstaking",
+    "ApproveRedeeming": "Approve Redeeming",
+    "ApproveUnstaking": "Approve Unstaking",
+    "ApproveNote": "Note: The \"Approve\" transaction is only needed when redeeming for the first time; subsequent redeems only requires you to perform the \"Redeem\" transaction.",
+    "ValueOfYourNextRewardAmount": "Value of Your Next Reward Amount"
+}

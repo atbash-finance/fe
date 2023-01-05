@@ -1,0 +1,38 @@
+{
+  "extends": "./tsconfig.paths.json",
+  "compilerOptions": {
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "target": "es5",
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "skipLibCheck": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": [
+    "./*.d.ts",
+    "src/**/*",
+    "babel.config.js",
+    "src/types/react-app-env.d.ts",
+    "src/types/react-i18next.d.ts",
+    "src/types/theme.d.ts",
+    "./src/types"
+  ],
+  "compileOnSave": false
+}

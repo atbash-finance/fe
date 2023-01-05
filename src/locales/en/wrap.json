@@ -1,0 +1,18 @@
+{
+    "WrapTitle": "Wrap",
+    "WrapYourBASH": "Wrap Your Staked BASH",
+    "ConnectYourWalletToWrap": "Connect your wallet to wrap BASH tokens!",
+    "Wrap": "Wrap",
+    "WrappingsBASH": "Wrapping sBASH",
+    "UnwrappingBASH": "Unwrapping wsBASH",
+    "YourWrappedStakedBalance": "Your Wrapped Staked Balance",
+    "WrappedTokenEquivalent": "Your Wrapped sBASH is equivalent to",
+    "ValueOfYourBASH": "Value of Your BASH",
+    "ValueOfYourStakedBASH": "Value of Your Staked BASH",
+    "ValueOfYourWrappedStakedBASH": "Value of Your Wrapped BASH",
+    "YourStakedBalance": "Your Staked Balance",
+    "Wrapping": "wrapping",
+    "Unwrapping": "unwrapping",
+    "ApproveWrapping": "Approve Wrapping",
+    "ApproveNote": "Note: The \"Approve\" transaction is only needed when wrapping/unwrapping for the first time; subsequent wrapping/unwrapping only requires you to perform the \"Wrap\" or \"Unwrap\" transaction."
+}
