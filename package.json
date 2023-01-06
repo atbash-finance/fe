@@ -113,6 +113,6 @@
         "prettier": "npx prettier src/ --ext .ts,.js,.tsx,.jsx --write",
         "import-deployments": "node ./scripts/import-deployments",
         "predeploy": "npm run build",
-        "deploy": "echo 'atbash.tech' > ./build/CNAME && gh-pages -d build"
+        "deploy": "echo atbash.tech > ./build/CNAME && gh-pages -d build"
     }
 }
